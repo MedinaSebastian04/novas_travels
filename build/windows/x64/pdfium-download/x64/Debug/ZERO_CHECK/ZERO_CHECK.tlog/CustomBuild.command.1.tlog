@@ -1,0 +1,10 @@
+^C:\USERS\OUKEN\DESKTOP\PERSONAL\PROYECTOS\NOVAS_TRAVELS\BUILD\WINDOWS\X64\PDFIUM-DOWNLOAD\CMAKEFILES\74946D0E1F609E6CE0BCEBE5145FCA77\GENERATE.STAMP.RULE
+setlocal
+"E:\Visual Studio Comunity 2026\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Ouken/Desktop/Personal/Proyectos/novas_travels/build/windows/x64/pdfium-download -BC:/Users/Ouken/Desktop/Personal/Proyectos/novas_travels/build/windows/x64/pdfium-download --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Ouken/Desktop/Personal/Proyectos/novas_travels/build/windows/x64/pdfium-download/pdfium-download.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

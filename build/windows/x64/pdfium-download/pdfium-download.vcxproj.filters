@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Ouken\Desktop\Personal\Proyectos\novas_travels\build\windows\x64\pdfium-download\CMakeFiles\e6a6d267d57e0d20e4e13d8a8aebd897\pdfium-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Ouken\Desktop\Personal\Proyectos\novas_travels\build\windows\x64\pdfium-download\CMakeFiles\e6a6d267d57e0d20e4e13d8a8aebd897\pdfium-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Ouken\Desktop\Personal\Proyectos\novas_travels\build\windows\x64\pdfium-download\CMakeFiles\e6a6d267d57e0d20e4e13d8a8aebd897\pdfium-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Ouken\Desktop\Personal\Proyectos\novas_travels\build\windows\x64\pdfium-download\CMakeFiles\e6a6d267d57e0d20e4e13d8a8aebd897\pdfium-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Ouken\Desktop\Personal\Proyectos\novas_travels\build\windows\x64\pdfium-download\CMakeFiles\e6a6d267d57e0d20e4e13d8a8aebd897\pdfium-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Ouken\Desktop\Personal\Proyectos\novas_travels\build\windows\x64\pdfium-download\CMakeFiles\e6a6d267d57e0d20e4e13d8a8aebd897\pdfium-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Ouken\Desktop\Personal\Proyectos\novas_travels\build\windows\x64\pdfium-download\CMakeFiles\e6a6d267d57e0d20e4e13d8a8aebd897\pdfium-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Ouken\Desktop\Personal\Proyectos\novas_travels\build\windows\x64\pdfium-download\CMakeFiles\e6a6d267d57e0d20e4e13d8a8aebd897\pdfium-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Ouken\Desktop\Personal\Proyectos\novas_travels\build\windows\x64\pdfium-download\CMakeFiles\ab775a66b350263cf6f3b0e19f809fe6\pdfium-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Ouken\Desktop\Personal\Proyectos\novas_travels\build\windows\x64\pdfium-download\CMakeFiles\74946d0e1f609e6ce0bcebe5145fca77\pdfium-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Ouken\Desktop\Personal\Proyectos\novas_travels\build\windows\x64\pdfium-download\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Ouken\Desktop\Personal\Proyectos\novas_travels\build\windows\x64\pdfium-download\CMakeFiles\pdfium-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E4D51329-70EE-389A-9E1E-C402A68D2FF1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

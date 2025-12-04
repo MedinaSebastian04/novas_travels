@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Ouken\Desktop\Personal\Proyectos\novas_travels\build\windows\x64\pdfium-download\CMakeFiles\74946d0e1f609e6ce0bcebe5145fca77\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E4D51329-70EE-389A-9E1E-C402A68D2FF1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
